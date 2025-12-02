@@ -1,2 +1,5 @@
 myenv/
 tempCodeRunnerFile.py
+__pycache__/
+*.pyc
+dlib/
